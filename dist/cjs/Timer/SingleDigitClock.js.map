@@ -1,0 +1,1 @@
+{"version":3,"file":"SingleDigitClock.js","sourceRoot":"","sources":["../../../src/Timer/SingleDigitClock.tsx"],"names":[],"mappings":";;;IAUa,QAAA,gBAAgB,GAAuC,CAAC,EAAC,QAAQ,EAAC,EAAE,EAAE;QAC3E,MAAM,CAAC,6BAAK,SAAS,EAAC,UAAU;YAC5B,6BAAK,SAAS,EAAC,qBAAqB,EAAC,KAAK,EAAE,EAAE,iBAAiB,EAAE,QAAQ,GAAG,GAAG,EAAE,GAAQ;YACzF,6BAAK,SAAS,EAAC,iBAAiB,GAAO,CACrC,CAAC;IAEf,CAAC,CAAA"}

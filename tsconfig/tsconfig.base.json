@@ -1,0 +1,27 @@
+
+{
+  "compilerOptions": {
+  
+      "outDir": "./../dist/",
+    
+      "sourceMap": true,
+      "noImplicitAny": false,
+      "module": "amd",
+     
+      "jsx": "react",
+      "traceResolution":false,
+    
+      "declaration": true,
+      "noEmitOnError":true,
+      "experimentalDecorators": true,
+      "moduleResolution": "node",
+      "pretty":true,
+      "target": "es5",
+      "lib": [ "es6", "dom" ]
+   
+       
+  },
+  "include": [
+      "./../src/**/*"
+  ]
+}
